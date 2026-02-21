@@ -2,8 +2,6 @@
 
 Una aplicación web moderna y completa para gestionar la salud y el bienestar de tus mascotas. Diseñada como una cartilla digital, permite llevar un seguimiento exhaustivo de vacunas, historiales médicos y clínicas veterinarias favoritas.
 
-![Cartilla Veterinaria Dashboard](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ## ✨ Características Principales
 
 ### 🐕 Gestión de Mascotas
