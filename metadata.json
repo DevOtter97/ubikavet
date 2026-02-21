@@ -1,0 +1,7 @@
+{
+  "name": "Cartilla Veterinaria",
+  "description": "A comprehensive veterinary health record and pet management application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
